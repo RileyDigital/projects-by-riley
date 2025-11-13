@@ -28,4 +28,4 @@ This report is part of a broader research project on Enhancing Cybersecurity wit
 ## Tools & Techniques
 - NIST PQC candidate research (Kyber, Dilithium, Falcon, etc.).
 - Quantum risk modelling using Microsoft Threat Modelling Tool.
-- Git for vewrsion control and collaborative editing. 
+- Git for version control and collaborative editing. 
