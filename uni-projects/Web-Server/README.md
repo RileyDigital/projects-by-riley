@@ -6,7 +6,8 @@
 Type: University Practical Project  
 Role: Sysadmin & Security Engineer  
 Grade: High Distinction (Full Marks)  
-Course: COIT13240 - Applied Cryptography (Security Project)  
+Course: COIT13240 - Applied Cryptography (Security Project)
+
 Responsibilities:  
 - Configured and secure an Apache web server on a Linux VM
 - Implemented HTTPS with SSL Certificates
