@@ -4,8 +4,8 @@
 # Sysadmin Final Assignment - Solo Implementation
 
 Type: University Practical Project  
-Role: Independeant Sysadmin & Security Engineer 
-Grade: Distinction   
+Role: Independeant Sysadmin & Security Engineer   
+Grade: Distinction     
 Course: COIT13146 System & Network Administration (Final Assignment)  
 
 ## Overview
@@ -54,3 +54,4 @@ Each server was configured on separate virtual machines within an internal netwo
 - Authored detailed progress reports, reflections and setup guides.
 - Recorded presentation highlighting technical implementation and demonstrations
 - Watch the final presentation here: [Final Presentation](https://youtu.be/ToNZFXUfcWw)
+
