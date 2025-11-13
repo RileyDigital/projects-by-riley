@@ -3,6 +3,18 @@
 [Return to Index](../)  
 [Return to Web](./)
 
+Type: University Practical Project  
+Role: Sysadmin & Security Engineer  
+Grade: High Distinction (Full Marks)  
+Course: COIT13240 - Applied Cryptography (Security Project)  
+Responsibilities:  
+- Configured and secure an Apache web server on a Linux VM
+- Implemented HTTPS with SSL Certificates
+- Set up user authentication, firewall rules, and SSH key access
+- Configured a reverse proxy to route traffic securely
+- Deployed version-controlled content via Git
+- Documented server setup and security steps
+
 ## Design
 
 The web server setup was designed to balance security with necessary legacy compatibility, reflecting realistic production constraints. Two HTTPS virtual hosts were configured on port 443, each with distinct security profiles:
